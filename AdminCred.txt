@@ -1,0 +1,9 @@
+Admin data:
+{
+  "email": "umaimahibaa@gmail.com",
+  "username": "hibaumaima",
+  "password": "umaima(hiba)"
+}
+
+litexob
+0987654321
